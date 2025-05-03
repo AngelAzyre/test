@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "type": "module",
   "description": "Finds anime from Nyaa and Sukebei.",
-  "main": "index.js",
+  "main": "index.json",
   "keywords": [],
   "author": "CrypticWyvern",
   "license": "MIT"
