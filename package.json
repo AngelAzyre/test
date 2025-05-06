@@ -1,0 +1,8 @@
+{
+  "name": "@azyreangel/test",
+  "version": "1.0.0",
+  "description": "test Extensions Provided by the Community",
+  "license": "GPLv3",
+  "main": "index.json",
+  "types": "index.d.ts"
+}
